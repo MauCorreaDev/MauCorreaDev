@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @MauCorreaDev, Chilean computer engineering student and technology lover
+- 👋 Hi, I'm @MauCorreaDev, Chilean TI student and technology lover
 - 👀 I am interested in creating projects that help me learn and create my portfolio
 - 🌱 I am currently learning front and back end technology on my own
 and learning mobile development at my university
@@ -7,7 +7,7 @@ and learning mobile development at my university
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👋 Hola, soy @MauCorreaDev, estudiante de ingenieria en informatica Chileno y amante de las tecnologias 
+- 👋 Hola, soy @MauCorreaDev, estudiante de Analista Programador Computacional y amante de las tecnologias 
 - 👀 Estoy interesado en crear proyectos que me sirvan para aprender y poder crear mi portafolio
 - 🌱 Actualmente estoy aprendiendo tecnologia front y back end por mi cuenta 
 y aprendiendo desarrollo movil en mi universidad
